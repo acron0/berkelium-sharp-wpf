@@ -1,0 +1,8 @@
+This is a WPF UserControl which uses BerkeliumSharp (Webkit).
+It is currently INCOMPLETE and does not contain 100% functionality, although it performs the basics well enough to be used.
+Please feel free to contribute.
+
+https://github.com/pathorn/berkelium-sharp
+https://github.com/romainpi/berkelium
+
+License is BSD as inherited from Berkelium and BerkeliumSharp.
